@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratik Sonune
-- 👀 I’m interested in ... Data Science
+- 👀 I’m interested in ... Data Science & Cyber Security
 - 🌱 I’m currently learning ... Bachelor's Degree Data Science & Engineering
 - 💞️ I’m looking for ...  
 - 📫 How to reach me ... pratiksonune14@gmail.com
