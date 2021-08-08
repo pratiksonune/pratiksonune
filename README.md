@@ -5,7 +5,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiksonune&show_icons=true&locale=en&layout=compact" alt="pratiksonune" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=pratiksonune&show_icons=true&locale=en" alt="pratiksonune" /></p>
-\n
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pratiksonune" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pratiksonune" height="30" width="40" /></a>
