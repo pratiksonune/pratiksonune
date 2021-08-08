@@ -3,10 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Sonune</h1>
 <h3 align="center">**I am an Interested in Data Science & Cyber Security**</h3>
 
-
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
-
-
 
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help in finding Internship Opportunities
@@ -15,12 +12,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-_itz._.pratik-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_itz._.pratik/)](https://instagram.com/_itz._.pratik)
 [![Gmail Badge](https://img.shields.io/badge/-pratiksonune14@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratiksonune14@gmail.com)](mailto:pratiksonune14@gmail.com)
 
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratiksonune&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksonune&hide=html&layout=compact)](https://github.com/pratiksonune/github-readme-stats)
 <!---
