@@ -15,7 +15,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-_itz._.pratik-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_itz._.pratik/)](https://instagram.com/_itz._.pratik)
 [![Gmail Badge](https://img.shields.io/badge/-pratiksonune14@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratiksonune14@gmail.com)](mailto:pratiksonune14@gmail.com)
 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratiksonune&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true)
 
