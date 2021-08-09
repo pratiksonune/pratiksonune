@@ -15,7 +15,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-pratik.sonune.71-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/pratik.sonune.71/)](https://facebook.com/pratik.sonune.71)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+![summary](https://github-readme-stats.vercel.app/api?username=ninjakx&show_icons=true&theme=radical)
 ![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratiksonune&show_icons=true&hide_border=true&title_color=fff&icon_color=fc531f&text_color=fff&bg_color=121212&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksonune&hide=html&layout=compact)](https://github.com/pratiksonune/github-readme-stats)
