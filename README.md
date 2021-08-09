@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksonune&label=Profile%20views&color=129e00&style=plastic" alt="pratiksonune" /> </p>
 
-<h1 align="center">Hi 👋, I'm Pratik Sonune</h1>
+<h1 align="center">Hey there!👋 Thanks for Visiting My Profile☺️</h1>
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
 
