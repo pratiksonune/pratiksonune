@@ -15,9 +15,10 @@
 [![Facebook Badge](https://img.shields.io/badge/-pratik.sonune.71-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/pratik.sonune.71/)](https://facebook.com/pratik.sonune.71)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![summary](https://github-readme-stats.vercel.app/api?username=pratiksonune&show_icons=true&theme=radical)
 
+![summary](https://github-readme-stats.vercel.app/api?username=pratiksonune&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksonune&hide=html&layout=compact)](https://github.com/pratiksonune/github-readme-stats)
+
 <!---
 pratiksonune/pratiksonune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
