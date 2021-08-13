@@ -18,6 +18,7 @@
 ![summary](https://github-readme-stats.vercel.app/api?username=pratiksonune&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksonune&hide=html&layout=compact)](https://github.com/pratiksonune/github-readme-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratiksonune" alt="pratiksonune" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratiksonune&theme=dark" alt="pratiksonune" /></p>
 
 <!---
 pratiksonune/pratiksonune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
