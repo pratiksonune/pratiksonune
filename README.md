@@ -4,7 +4,7 @@
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
 
-- 😋 I'm interested in Data Science & Cyber Security
+- 😋 I'm interested in Data Science
 - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help in finding Internship Opportunities
 - 📫 How to reach me: 
