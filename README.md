@@ -4,9 +4,6 @@
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
 
-- 😋 I'm interested in Data Science
-- 👯 I’m looking to collaborate on Data Science Projects
-- 🤔 I’m looking for help in finding Internship Opportunities
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-pratiksonune-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratiksonune/)](https://www.linkedin.com/in/pratiksonune/)
 [![Instagram Badge](https://img.shields.io/badge/-_itz._.pratik-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_itz._.pratik/)](https://instagram.com/_itz._.pratik)
