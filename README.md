@@ -8,7 +8,6 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-pratiksonune-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratiksonune/)](https://www.linkedin.com/in/pratiksonune/)
 [![Instagram Badge](https://img.shields.io/badge/-_itz._.pratik-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_itz._.pratik/)](https://instagram.com/_itz._.pratik)
-[![Facebook Badge](https://img.shields.io/badge/-pratik.sonune.71-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/pratik.sonune.71/)](https://facebook.com/pratik.sonune.71)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
