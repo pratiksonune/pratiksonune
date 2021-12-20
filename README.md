@@ -9,6 +9,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pratiksonune-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratiksonune/)](https://www.linkedin.com/in/pratiksonune/)
 [![Instagram Badge](https://img.shields.io/badge/-_itz._.pratik-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_itz._.pratik/)](https://instagram.com/_itz._.pratik)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiksonune&show_icons=true&locale=en&layout=compact" alt="pratiksonune" /></p>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!---
