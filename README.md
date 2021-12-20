@@ -2,16 +2,15 @@
 
 <h1 align="center">Hey there!👋 Thanks for Visiting My Profile☺️</h1>
 
-<img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
+<img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" /> <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiksonune&show_icons=true&locale=en&layout=compact" alt="pratiksonune" /></p>
 
 - 📫 How to reach me:
   
 [![Linkedin Badge](https://img.shields.io/badge/-pratiksonune-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratiksonune/)](https://www.linkedin.com/in/pratiksonune/)
 [![Instagram Badge](https://img.shields.io/badge/-_itz._.pratik-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_itz._.pratik/)](https://instagram.com/_itz._.pratik)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiksonune&show_icons=true&locale=en&layout=compact" alt="pratiksonune" /></p>
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <!---
 pratiksonune/pratiksonune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
