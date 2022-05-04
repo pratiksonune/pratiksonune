@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img gif src="hi.gif" width="30px">, I'm Pratik Sonune :man_technologist: </h1>
+<h1 align="center">Hi 👋, I'm Pratik Sonune :man_technologist: </h1>
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
 
