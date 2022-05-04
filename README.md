@@ -1,6 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksonune&label=Profile%20views&color=129e00&style=plastic" alt="pratiksonune" /> </p>
-
-<h1 align="center">Hi 👋, I'm Pratik Sonune :man_technologist: </h1>
+<h1 align="center">Hey <img gif src="hi.gif" width="30px">, I'm Pratik Sonune :man_technologist: </h1>
 
 <img src="https://pixan198.github.io/images/Developer.gif" alt="Developer" />
 
@@ -11,6 +9,8 @@
 - 🌱 I’m currently learning **Data Science & Engineering**
 
 - 🤔 I’m looking for help in finding internship opportunities
+
+- Pronouns: He/Him
 
 - 📫 How to reach me :
 
