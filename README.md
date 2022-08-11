@@ -12,12 +12,19 @@
 
 - Pronouns: He/Him
 
-- 📫 How to reach me :
+- 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-pratiksonune14@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratiksonune14@gmail.com)](mailto:pratiksonune14@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-pratiksonune-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratiksonune/)](https://www.linkedin.com/in/pratiksonune/)
-[![Twitter Badge](https://img.shields.io/badge/-@_itz_pratik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_itz_pratik)](https://twitter.com/_itz_pratik)
-[![Instagram Badge](https://img.shields.io/badge/-@_itz._.pratik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://instagram.com/_itz._.pratik)](https://instagram.com/_itz._.pratik)
-[![Gmail Badge](https://img.shields.io/badge/-pratiksonune14@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratiksonune14@gmail.com)](mailto:pratiksonune14@gmail.com)
+<hr>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/_itz_pratik" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="_itz_pratik" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pratiksonune" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="pratiksonune" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/_itz._.pratik" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="_itz._.pratik" height="50" width="50" /></a>
+</p>
+
+<hr>
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
