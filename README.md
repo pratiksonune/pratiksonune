@@ -12,8 +12,7 @@
 
 - Pronouns: He/Him
 
-- 📫 How to reach me : [![Gmail Badge](https://img.shields.io/badge/-pratiksonune14@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pratiksonune14@gmail.com)](mailto:pratiksonune14@gmail.com)
-
+- 📫 How to reach me : (https://itzpratik.bio.link/)
 <hr>
 
 <h3 align="center">Connect with me:</h3>
