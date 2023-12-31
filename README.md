@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on sharpening my **Problem Solving Skills**
 
-- 🌱 I’m currently learning **Data Science & Engineering**
+- 🌱 I’m currently learning **Data Science & Artificial Intelligence**
 
 - 🤔 I’m looking for help in finding internship opportunities
 
