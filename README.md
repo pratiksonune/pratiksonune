@@ -19,7 +19,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/pratiksonune" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="pratiksonune" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/pratikk.003" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="pratikk.003" height="50" width="50" /></a>
-<a href="https://twitter.com/pratikk_03" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="pratikk_03" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
