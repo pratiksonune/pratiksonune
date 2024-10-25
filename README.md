@@ -12,7 +12,7 @@
 
 - Pronouns: He/Him
 
-- 📫 How to reach me : (https://itzpratik.bio.link/)
+- 📫 How to reach me : (https://linktr.ee/pratikk.003)
 <hr>
 
 <h3 align="center">Connect with me:</h3>
