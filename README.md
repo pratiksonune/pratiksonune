@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Data Science & Artificial Intelligence**
 
-- 🤔 I’m looking for help in finding internship opportunities
-
 - Pronouns: He/Him
 
 - 📫 How to reach me : (https://linktr.ee/pratikk.003)
